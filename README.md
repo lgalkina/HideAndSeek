@@ -15,8 +15,8 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## 3rd Party Assets Used
 
-- https://www.turbosquid.com/3d-models/chocolate-candy-3ds-free/1005232
-- https://www.turbosquid.com/3d-models/free-fbx-mode-simple-plate-games-ready/685481
+- Candy: https://www.turbosquid.com/3d-models/chocolate-candy-3ds-free/1005232
+- Plate: https://www.turbosquid.com/3d-models/free-fbx-mode-simple-plate-games-ready/685481
 - https://freesound.org/people/GabrielAraujo/sounds/242503/
 - https://freesound.org/people/Sergenious/sounds/55845/
 - https://freesound.org/people/Robinhood76/sounds/87072/
