@@ -24,10 +24,12 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Game description
 
-This is a hide-and-seek-themed interaction game. The goal is to find as much candies as possible and to put them on the plate during the 120 seconds time interval. 
+This is a hide-and-seek-themed interaction game. The goal is to find as much pink candies as possible and to put them on the plate during the 120 seconds time interval. 
 
 The game utilizes both motion controllers. The right controller (wand) is used for teleport locomotion. The user should hold trigger button on right controller to aim teleporter and release to teleport. The left controller (hand) is used to pick up candies. The user should hold trigger on left controller to pick up a candy and release the trigger to drop a candy. The grabbed candy should be put on the plate to increase score. 
 
 The left time and current score are displayed on TV screen. 
 
 To start the game the user shoud use the right controller (wand) and press on the red button on the wall near the door.
+
+Lighting is created using directional and spot lights and additional colorful point lights.
